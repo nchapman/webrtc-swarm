@@ -15,10 +15,11 @@
     "through2": "^3.0.1"
   },
   "devDependencies": {
-    "electron-webrtc": "^0.3.0",
-    "signalhub": "^4.7.1",
-    "standard": "^7.1.2",
-    "tape": "^4.6.0"
+    "signalhubws": "^1.0.12",
+    "standard": "^10.0.3",
+    "tape": "^4.13.2",
+    "websocket": "^1.0.31",
+    "wrtc": "^0.4.4"
   },
   "repository": {
     "type": "git",
